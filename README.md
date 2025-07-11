@@ -1,7 +1,23 @@
-# 💫 About Me:
- Full Stack  Developer 🚀  <br><br> 👨‍💻 Passionate Developer – Love building scalable web applications using MongoDB, Express.js, React.js, and Node.js.  <br> 🔥 Problem Solver – Enjoy solving complex challenges with efficient code and best practices.  <br> 🎨 Frontend Enthusiast – Crafting responsive and user-friendly UI with React.js, Tailwind CSS, and BootStrap.  <br> ⚙️ Backend Specialist – Developing robust APIs with Node.js, Express.js, and MongoDB.  <br> 🛠️ Database Expert – Skilled in designing and optimizing MongoDB schemas and queries.  <br> 🔄 RESTful APIs – Experienced in building scalable APIs for seamless communication.  <br> 🔐 Authentication & Security – Implementing JWT, OAuth, and role-based access control (RBAC).  <br> 🚀 Performance Optimization – Focused on improving app speed, caching, and load balancing.  <br> 🎯 Version Control & Deployment – Proficient in Git, GitHub, Docker, and cloud platforms like AWS/Vercel.  <br> 📚 Continuous Learner – Always exploring new technologies and improving coding skills.  <br><br>
+💫 About Me
+Full Stack Developer | IT Support Specialist | CRM Enthusiast
 
+💻 Full Stack Development:
+Experienced in building scalable web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in both frontend (React.js, Tailwind CSS, Bootstrap) and backend (Node.js, Express.js) development.
 
+🖥️ IT Support:
+Proficient in troubleshooting hardware and software issues, providing technical assistance, and ensuring smooth IT operations for users and teams. Adept at maintaining system reliability and user satisfaction.
+
+🤝 Customer Relationship Management (CRM):
+Skilled in managing and optimizing CRM platforms, handling client data, and supporting customer engagement strategies to enhance business relationships.
+
+🛠️ Integration & Automation:
+Experienced in integrating systems and automating workflows to improve productivity and streamline business processes.
+
+🔐 Security & Best Practices:
+Knowledgeable in implementing authentication, authorization, and security best practices across applications and IT environments.
+
+🚀 Continuous Improvement:
+Committed to ongoing learning and staying updated with emerging technologies in software development, IT support, and CRM solutions.
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ketan_027) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@bigdaddyketan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mail.ketan027@gmail.com) 
 
