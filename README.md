@@ -4,6 +4,9 @@ Full Stack Developer | Data Analyst | IT Support | Writer
 💻 Full Stack Development:
 Experienced in building scalable web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in both frontend (React.js, Tailwind CSS, Bootstrap) and backend (Node.js, Express.js) development.
 
+📊 Data Analyst:
+Skilled in analyzing large datasets using Python (Pandas, NumPy), SQL, and Excel. Experienced in data cleaning, exploratory data analysis (EDA), and visualization using Power BI, Matplotlib, and Seaborn to drive data-driven decisions.
+
 🖥️ IT Support:
 Proficient in troubleshooting hardware and software issues, providing technical assistance, and ensuring smooth IT operations for users and teams. Adept at maintaining system reliability and user satisfaction.
 
