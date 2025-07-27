@@ -1,5 +1,5 @@
 💫 About Me
-Full Stack Developer | IT Support Specialist | CRM Enthusiast | Writer
+Full Stack Developer | Data Analyst | IT Support | Writer
 
 💻 Full Stack Development:
 Experienced in building scalable web applications using MongoDB, Express.js, React.js, and Node.js. Skilled in both frontend (React.js, Tailwind CSS, Bootstrap) and backend (Node.js, Express.js) development.
